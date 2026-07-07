@@ -1,0 +1,29 @@
+{
+  "identifier": "NONCONSUMABLE",
+  "nonRenewingSubscriptions": [],
+  "products": [
+    {
+      "displayPrice": "2.99",
+      "familyShareable": false,
+      "internalID": "prod001",
+      "localizations": [
+        {
+          "description": "Unlock: Weekly time-per-subject breakdown chart",
+          "displayName": "Homework Timer Pro",
+          "locale": "en_US"
+        }
+      ],
+      "productID": "homeworktimer_pro",
+      "referenceName": "Homework Timer Pro",
+      "type": "NonConsumable"
+    }
+  ],
+  "settings": {
+    "_locale": "en_US"
+  },
+  "subscriptionGroups": [],
+  "version": {
+    "major": 3,
+    "minor": 0
+  }
+}
